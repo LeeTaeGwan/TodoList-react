@@ -8,3 +8,7 @@
 .todoItem button {
   margin-right: 10px;
 }
+
+.text.checked {
+  text-decoration: line-through;
+}
